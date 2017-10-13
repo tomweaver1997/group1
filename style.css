@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    display: block;
+}
+footer{
+    background-color: black;
+    display: block;
+}
+.mainContent{
+    background-color: gray;
+    display: block;
+}
+.leftSidebar{
+    background-color: red;
+    display: block;
+}
+.rightSidebar{
+    background-color: blue;
+    display: block;
+}
